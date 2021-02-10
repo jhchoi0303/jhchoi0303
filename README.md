@@ -1,16 +1,37 @@
-### Hi there 👋
+# jhchoi0303
 
-<!--
-**jhchoi0303/jhchoi0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhchoi0303)](https://github.com/anuraghazra/github-readme-stats)
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## :mortar_board: About me
+
+- **Korea University Department of Computer Science, School of Interdisciplinary Studies (2019~)**
+
+  *First major: Computer Science*
+
+  *Second major: Governance and leadership*
+
+  
+
+- **Hankuk Academy of Foreign Studies (HAFS) (~2019.02)**
+
+  *Humanities Course*
+
+  *Chinese major*
+
+  
+
+- Blog: https://zzzmilky.tistory.com/
+
+
+
+## :runner:Currently....
+
+:crossed_swords: Solving war-games
+
+:computer: Participating in KUCC web-page side-project
