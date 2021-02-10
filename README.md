@@ -1,12 +1,5 @@
 # jhchoi0303
 
-```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhchoi0303)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-
-
-
 
 ## :mortar_board: About me
 
