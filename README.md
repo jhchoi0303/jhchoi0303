@@ -19,7 +19,6 @@
 
   
 
-- **Blog**: https://zzzmilky.tistory.com/
 
 
 
