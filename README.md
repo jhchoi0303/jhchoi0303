@@ -32,5 +32,18 @@
 
 
 
+### ⚡&nbsp;Projects
+````bash
+> Fuzzing RDP
+>> https://github.com/bacon-tomato-spaghetti
+>>> Fuzzing MS RDP, FreeRDP, rdesktp, xrdp w/ Team BT5
+
+> Web/App Dev project @KAIST MADCAMP
+>> https://github.com/jhchoi0303/madcamp4 
+>>> Online DJ mixing Website
+````
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhchoi0303&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
