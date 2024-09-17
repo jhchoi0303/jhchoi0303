@@ -5,8 +5,11 @@
 - 🌱 Expertise: **Vulnerability analysis & Security Consulting**
 - 🎓 Affiliation: **Graduate of Korea Univ, Computer Science**
 - 💡 I like to **participate in CTFs and solve wargames (web, crypto, forensics, reversing)** 
-- 📫 How to reach me: **zzzmilky@korea.ac.kr** 
 
+
+````bash
+> Welcome to my blog: https://medium.com/@zzzmilky
+````
 
 
 <img alt="Night Hacking" src="https://raw.githubusercontent.com/jhchoi0303/jhchoi0303/master/assets/Night-Hacking.gif" align="right"/>
