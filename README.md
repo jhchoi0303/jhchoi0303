@@ -34,7 +34,7 @@
 
 ### ⚡&nbsp;Projects
 ````bash
-> Fuzzing RDP
+> Fuzzing RDP project @KITRI BoB
 >> https://github.com/bacon-tomato-spaghetti
 >>> Fuzzing MS RDP, FreeRDP, rdesktp, xrdp w/ Team BT5
 
